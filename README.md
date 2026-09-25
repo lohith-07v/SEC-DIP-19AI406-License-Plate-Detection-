@@ -1,7 +1,7 @@
 # SEC-DIP-19AI406-License-Plate-Detection-
 
-### Name: HARI VARSHAN V
-### Register Number: 212224230092
+### Name: Lohith V
+### Register Number: 212225230154
 ## Aim
 To implement a License Plate Detection system using OpenCV and Haar Cascade Classifier, draw bounding boxes, crop the detected region, and blur the license plate to improve privacy. The detection accuracy is improved by tuning Haar Cascade parameters.
 
